@@ -1,2 +1,2 @@
 # otrorepositorio
-#probando fetch, push and pull
+#probando fetch, pull and push
